@@ -37,7 +37,11 @@ To install this gem onto your local machine, run `bundle exec rake install`. To 
 
 ## Contributing
 
-Bug reports and pull requests are welcome on GitHub at https://github.com/cloudplement/leetize.
+Bug reports and pull requests are welcome on GitHub at https://github.com/Cloudplement/leetize.
+
+## Code Status
+
+[![Build Status](https://travis-ci.org/Cloudplement/leetize.svg?branch=master)](https://travis-ci.org/Cloudplement/leetize) [![Code Climate](https://codeclimate.com/github/Cloudplement/leetize/badges/gpa.svg)](https://codeclimate.com/github/Cloudplement/leetize)
 
 ## License
 
