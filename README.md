@@ -1,6 +1,6 @@
 # Leetize
 
-A simple 1337 speak geneartor.
+A simple 1337 speak generator.
 
 - Take english characters
 - Downcase charaters
