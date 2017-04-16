@@ -3,7 +3,7 @@
 A simple 1337 speak generator.
 
 - Take english characters
-- Downcase charaters
+- Downcase characters
 - Converts vowels and consonants 'S' and 'T' to 1337 speak
 
 ## Installation
