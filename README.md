@@ -1,6 +1,6 @@
 # Leetize
 
-A simple 1337 speak generator.
+A simple 1337 speak translator.
 
 - Take english characters
 - Downcase characters
@@ -26,7 +26,7 @@ Or install it yourself as:
 
     irb(main):001:0> require 'leetize'
     => true
-    irb(main):002:0> Leetize.generate("Hello world!")
+    irb(main):002:0> Leetize.translate("Hello world!")
     => "h3ll0 w0rld!"
 
 ## Development
