@@ -1,7 +1,7 @@
 # coding: utf-8
-lib = File.expand_path('../lib', __FILE__)
+lib = File.expand_path("../lib", __FILE__)
 $LOAD_PATH.unshift(lib) unless $LOAD_PATH.include?(lib)
-require 'leetize/version'
+require "leetize/version"
 
 Gem::Specification.new do |spec|
   spec.name          = "leetize"
@@ -9,8 +9,8 @@ Gem::Specification.new do |spec|
   spec.authors       = ["Francis Go"]
   spec.email         = ["francis.go@gmail.com"]
 
-  spec.summary       = %q{A simple 1337 speak generator}
-  spec.description   = %q{A simple 1337 speak generator}
+  spec.summary       = "A simple 1337 speak generator"
+  spec.description   = "q{A simple 1337 speak generator"
   spec.homepage      = "https://github.com/Cloudplement/leetize"
   spec.license       = "MIT"
 
